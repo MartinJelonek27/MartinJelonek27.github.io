@@ -13,9 +13,10 @@ title: Martin Jelonek's Portfolio # This is what shows up in the tab of the brow
 
 # Hero Section
 name: Martin Jelonek
-headline: I like taking things apart and understanding how they work
+headline: Welcome to my portfolio. Whether you're a professor, recruiter, engineer, or friend, I hope you enjoy what I've made here.
 description: >- # dont remove this line. this will ignore all new lines until the next section
-   Welcome to my portfolio. Whether you're a professor, recruiter, engineer, or friend, I hope you enjoy what I've made here.
+   Hi there! My name is Martin and I’m currently in my junior year as a mechanical engineering student. I grew up in an apartment in Jersey City, where my learning journey began with tearing apart my toys and rc cars to understand how they work.
+    
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -45,39 +46,21 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+  - category: Analysis
+    tools:
+    - MatLab
+    - Excel
   - category: Prototyping
     tools:
-    - SLA
     - CNC
     - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
     - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+nagement
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
     - DFMEA / PFMEA 
