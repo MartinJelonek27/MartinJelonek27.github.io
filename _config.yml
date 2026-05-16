@@ -15,7 +15,7 @@ title: Martin Jelonek's Portfolio # This is what shows up in the tab of the brow
 name: Martin Jelonek
 headline: I like taking things apart and understanding how they work
 description: >- # dont remove this line. this will ignore all new lines until the next section
-   Welcome to my portfolio, whether you're a recruiter, engineer, or friend, I hope you enjoy what I've made here.
+   Welcome to my portfolio. Whether you're a professor, recruiter, engineer, or friend, I hope you enjoy what I've made here.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
