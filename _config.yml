@@ -60,12 +60,9 @@ skills:
     - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
-management:
+ category: Problem Solving / Risk Management
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - put ida stuff here
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
