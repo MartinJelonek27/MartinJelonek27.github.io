@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Projects
+title: Victaulic Summer Internship Projects
 description:  short description of the project
 skills: 
 - skill 1
