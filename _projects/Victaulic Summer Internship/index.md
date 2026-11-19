@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Victaulic Summer Internship
-description: Worked on a cordless, automated roll grooving machine, designing battery and power circuit boards in Altium and checking parts in ANSYS.
+description: Worked on new technology relating to grooving machine, designing battery and power circuit boards in Altium and checking parts in ANSYS.
 skills:
 - Altium Designer
 - PCB Design
