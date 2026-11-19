@@ -13,16 +13,17 @@ main-image: "https://live.staticflickr.com/65535/49742137291_bebdb138d8_b.jpg"
 
 ## Overview
 
-Victaulic makes grooved pipe systems. A groove is formed near the end of each pipe, and a coupling clamps two grooved ends together. During my summer internship I worked on a cordless, automated roll grooving machine, a tool that forms that groove. The machine is still in development, so this page stays general and has no company photos, part details or test data.
+Victaulic makes grooved pipe systems. A groove is formed near the end of each pipe, and a coupling clamps two grooved ends together. During my summer internship I worked on a developing a new grooving machine. The machine is still in development, so this page stays general and has no company photos, part details or test data.
 
 ## What I did
 
 - Designed circuit boards in Altium for the machine's battery and power system.
 - Used ANSYS to check mechanical parts of the machine.
+- Mechanical Design and Iteration
 
 ## What I learned
 
-The biggest lesson was how many parts of engineering design meet in one product. A cordless machine has to work electrically and mechanically, and it also has to be something a factory can build. That is what design for manufacturing (DFM) is about: thinking about how a part will be made, assembled and tested while you are still designing it. Boothroyd, Dewhurst and Knight make the case for doing this early, before the design is locked in.
+The biggest lesson was how many parts of engineering design meet in one product. Battery powered machines have to work electrically and mechanically, and it also has to be something a factory can build. That is what design for manufacturing (DFM) is about: thinking about how a part will be made, assembled and tested while you are still designing it. Boothroyd, Dewhurst and Knight make the case for doing this early, before the design is locked in.
 
 DFM changes how you design both kinds of parts. For a circuit board, it means part placement, spacing and trace sizes that a board shop can build and test reliably. IPC-2221 is the general standard for board design rules like these. For a mechanical part, it means shapes that can be made and put together easily, not just shapes that pass the stress check.
 
