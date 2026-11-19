@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Wing Weight Optimization
 description:  Using CLT to optimize for minimum weight subject to bending stiffness and fatigue life
 skills: 
